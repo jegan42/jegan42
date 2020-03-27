@@ -1,2 +1,2 @@
 # jegan42
-42 Projet C
+42 Projet

@@ -1,0 +1,19 @@
+body
+{
+	display: flex;
+	width: 99%;
+	height: 98%;
+}
+
+#actionview
+{
+	border: 3px solid black;
+	background: rgb(50, 50, 50);
+}
+
+#gameview
+{
+	border: 3px solid black;
+	flex: 1;
+	background: rgb(100, 100, 100);
+}

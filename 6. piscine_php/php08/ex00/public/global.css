@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: url("https://render.fineartamerica.com/images/rendered/default/poster/8.000/8.000/break/images/artworkimages/medium/2/space-stars-texture-sololos.jpg");
+  background-repeat: repeat;
+
+}
+
+.header {
+  overflow: hidden;
+  background-color: #f1f1f1;
+  padding: 10px 10px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.headerDiv {
+
+}
+
+.msg {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.vaiseauHub {
+  padding: 20px;
+  background-color: #E0FFFF;
+  height: 80vh;
+}

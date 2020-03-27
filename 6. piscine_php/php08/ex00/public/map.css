@@ -1,0 +1,21 @@
+body {
+  margin: 20px;
+}
+
+.divGlobal {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  background-color: #444;
+  color: #fff;
+  width: 3px;
+  padding: 2.7px;
+  font-size: 5px;
+}
+
+.wrapper {
+  width: 1000px;
+  display: flex;
+}

@@ -1,0 +1,142 @@
+body
+{
+	display: flex;
+	flex-direction: column;
+}
+
+.teamtitle, .footer
+{
+	display: flex;
+	flex-direction: column;
+	background: rgb(100, 100, 100);
+	border: 3px solid rgb(25, 25, 25);
+	border-radius: 20px;
+	text-align: center;
+	color: #ccc;
+}
+
+.shipview
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+	border: 5px solid #ccc;
+	border-radius: 25px;
+	margin: 2%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.shiptitle
+{
+	margin: 1%;
+	background: rgb(30, 30, 30);
+	color: #ccc;
+	border-radius: 20px;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+hr
+{
+	width: 80%;
+	margin: 1%;
+}
+
+.principal
+{
+	display: flex;
+	flex: 1;
+	flex-direction: column;
+}
+
+.footer
+{
+	display: flex;
+	flex-direction: initial;
+	justify-content: space-around;
+	padding: 2%;
+}
+
+.phaseview
+{
+	background: rgb(100, 100, 100);
+	padding: 2%;
+	border: 3px solid #ccc;
+	border-radius: 10px;
+}
+
+#select
+{
+	background: seagreen;
+}
+
+.boxstep
+{
+	display: flex;
+	flex-direction: column;
+}
+
+.nextstep
+{
+	background: rgb(100, 100, 100);
+	padding: 2%;
+	border: 3px solid #333;
+	border-radius: 10px;
+	font-size: 20px;
+	color: #ccc;
+}
+
+.shipinfo
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-align: center;
+	font-size: 20px;
+	color: #ccc;
+}
+
+hr
+{
+	width: 80%;
+	align-self: center;
+}
+
+.desbox
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	border: 10px solid #333;
+	background: #ccc;
+	border-radius: 30px;
+	padding: 10%;
+	margin-left: 30%;
+	margin-right: 30%;
+	color: black;
+}
+
+.divinput
+{
+	display: flex;
+	flex-direction: initial;
+	width: 90%;
+	justify-content: space-between;
+}
+
+.input
+{
+	background: rgb(100, 100, 100);
+	border-radius: 10px;
+	border: 3px solid #ccc;
+	padding: 5%;
+	padding-left: 25%;
+	padding-right: 25%;
+	font-size: 20px;
+	color: #ccc;
+}

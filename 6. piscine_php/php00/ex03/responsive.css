@@ -1,0 +1,74 @@
+
+body {
+	font-family: "Arial";
+	 box-sizing: border-box;
+}
+h1 {
+	text-align: center;
+	
+	font-size: 3vw;
+}
+img.photo {
+	width: 30%;
+}
+div, p.enum {
+	text-align: center;
+	font-size: 1vw;
+}
+p {
+	margin: 4%;
+    font-size:1vw;
+}
+p.mass {
+	text-align: right;
+}
+h2 {
+    text-align:center;
+    margin:3%;
+    font-size:1.5vw;
+}
+table {
+	width:100%;
+}
+td {
+    width:5%;
+}
+td.alkali {
+	background-color: #f24a4e;
+}
+td.alkaline-earth {
+	background-color: #ffb583;
+}
+td.transition {
+	background-color: #f884b3;
+}
+td.poor {
+	background-color: #f2f2f2;
+}
+td.lanthanide {
+	background-color: #dd88cb;
+}
+td.actinide {
+	background-color: #cc86de;
+}
+td.metalloid {
+	background-color: #dfce88;
+}
+td.no-metal {
+	background-color: #74ff81;
+}
+td.halogen {
+	background-color: #ffe682;
+}
+td.rare-gas {
+	background-color: #7e84f2;
+}
+h2.liquid {
+	color: blue;
+}
+h2.gaseous {
+	color: red;
+}
+h2.unknown {
+	color: gray;
+}

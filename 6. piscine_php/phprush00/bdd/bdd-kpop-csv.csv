@@ -1,0 +1,17 @@
+id,nom,categorie1,categorie2,quantite,prix,image
+1,BlackPink Poster,blackpink,poster,3,10,../img/blackpink.jpeg
+2,BlackPink Sac,blackpink,sac,1,50,../img/blackpink-bag.jpg
+3,BlackPink Sweet,blackpink,sweet,8,75,../img/blackpink-sweet.jpg
+4,BlackPink Coussin,blackpink,coussin,10,45,../img/blackpink-coussin.png
+5,Bts Poster,bts,poster,3,10,../img/bts.jpg
+6,Bts Sac,bts,sac,1,50,../img/bts-bag.jpg
+7,Bts Sweet,bts,sweet,8,75,../img/bts-sweet.jpg
+8,Bts Coussin,bts,coussin,10,45,../img/bts-coussin.jpg
+9,GirlsGeneration Poster,girlsgeneration,poster,3,10,../img/girlsgeneration.jpg
+10,GirlsGeneration Sac,girlsgeneration,sac,1,50,../img/gg-bag.png
+11,GirlsGeneration Sweet,girlsgeneration,sweet,8,75,../img/gg-sweet.png
+12,GirlsGeneration Coussin,girlsgeneration,coussin,10,45,../img/gg-coussin.png
+13,Got7 Poster,got7,poster,3,10,../img/got7.jpg
+14,Got7 Sac,got7,sac,1,50,../img/got7-bag.jpg
+15,Got7 Sweet,got7,sweet,8,75,../img/got7-sweet.jpg
+16,Got7 Coussin,got7,coussin,10,45,../img/got7-coussin.png

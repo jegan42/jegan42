@@ -1,0 +1,18 @@
+.nameShip {
+  font-size: 14px;
+}
+
+.titleShip {
+  padding: 10px; margin-top:5px; font-weight: 800;
+}
+
+.listShip {
+  display: flex; flex-flow: column;
+}
+
+.vaiseauHub {
+  padding: 20px;
+  width: 150px;
+  background-color: #E0FFFF;
+  height: 80vh;
+}
